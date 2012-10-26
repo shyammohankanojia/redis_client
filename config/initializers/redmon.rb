@@ -7,4 +7,4 @@ Redmon.configure do |config|
 end
 
 # this is some hack for graph
-system %x{redmon --no-app}
+#system %x{redmon --no-app}

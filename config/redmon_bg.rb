@@ -1,0 +1,1 @@
+system %x{redmon --no-app}

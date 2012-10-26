@@ -21,3 +21,6 @@ clone this application.
 > rails s 
 
 > open at localhost:3000
+
+> user_name => redis_client
+> password => redis_client
