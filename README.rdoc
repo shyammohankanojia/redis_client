@@ -1,0 +1,23 @@
+Redis_client is a rails3 web application for redis web interface.
+
+Install redis http://redis.io/download
+
+start redis-server
+
+> redis-server
+
+To check redis server
+
+> redis-cli
+
+clone this application.
+
+> git clone git@github.com:shyammohankanojia/redis_client.git
+
+> cd redis_client
+
+> bundle install
+
+> rails s 
+
+> open at localhost:3000
